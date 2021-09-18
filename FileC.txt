@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is File3 -- Updated again for the new branch Kaustubh pull request 123
+=======
+This is File3 -- Updated again for the new branch Kaustubh pull request again
+>>>>>>> 4eb3a4058c745505835d46e5dafb6c1f7beaf58b
